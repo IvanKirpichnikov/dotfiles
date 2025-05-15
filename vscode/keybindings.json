@@ -1,0 +1,12 @@
+[
+    // Find file
+    {
+        "key": "ctrl+alt+h",
+        "command": "find-it-faster.findFiles"
+    },
+    // Word search
+    {
+        "key": "ctrl+h",
+        "command": "find-it-faster.findWithinFiles"
+    }
+]
