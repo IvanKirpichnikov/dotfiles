@@ -31,3 +31,4 @@ up-wireguard:
 [doc("Wireguard down")]
 down-wireguard:
     wg-quick down ~/.config/wireguard/config.conf
+
